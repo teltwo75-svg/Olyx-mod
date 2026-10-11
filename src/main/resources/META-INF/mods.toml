@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[41,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="olyx"
+version="1.0.0"
+displayName="Olyx - AI Horror Mod"
+authors="Olyx Creator"
+description='''
+Olyx korku modu.
+'''
